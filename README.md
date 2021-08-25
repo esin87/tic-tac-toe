@@ -27,3 +27,18 @@
 - As a player, I want the game to share my wins to Facebook so everyone can know how good I am.
 - As a player, I want to be able to play the game in the language that I speak, so that I can fully understand the game.
 - As a player with a visual limitation, I want to be able to play the game so that I can access its functionality.
+
+## Wireframes
+
+Markdown image syntax:
+
+```md
+![alt text](image path or URL)
+```
+
+Hosting an image on GitHub remotely
+
+![Tic Tac Toe Wireframe Main Page View](https://user-images.githubusercontent.com/53010153/130824655-5d30c6f8-d1df-407c-b3e9-f9a914685836.png)
+
+Uploading a file to GitHub
+![Tic Tac Toe Wireframe Main Page View](./assets/wireframe.png)
